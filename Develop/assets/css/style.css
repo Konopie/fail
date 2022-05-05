@@ -27,6 +27,7 @@ p {
     margin-left: 25px;
 }
 /* general css end */
+
 /* header css start */
 .header {
     padding: 20px;
@@ -62,7 +63,7 @@ p {
 }
 /* header css end */
 
-
+/* hero css start */
 .hero {
     height: 800px;
     width: 100%;
@@ -71,6 +72,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* hero css end */
+
 /* benifit css start */
 .benefits {
     margin-right: 20px;
@@ -131,6 +134,7 @@ p {
     max-width: 150px;
 }
 /* benifit css end */
+
 /* content css start */
 .content {
     width: 75%;
@@ -192,6 +196,7 @@ p {
     font-size: 36px;
 }
 /* content css end */
+
 /* footer css start */
 
 .footer {
